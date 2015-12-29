@@ -156,11 +156,14 @@
 		9A48CBDD1B697F980031791D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = mobi.inthepocket;
 				TargetAttributes = {
 					9A48CBE41B697F980031791D = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = 9E7CS548TK;
 					};
 					9A48CBF91B697F980031791D = {
 						CreatedOnToolsVersion = 6.4;
@@ -340,6 +343,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = TestUICollectionPaged/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -350,6 +354,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = TestUICollectionPaged/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -409,6 +414,7 @@
 				9A48CC061B697F980031791D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A48CC071B697F980031791D /* Build configuration list for PBXNativeTarget "TestUICollectionPagedTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +423,7 @@
 				9A48CC091B697F980031791D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
