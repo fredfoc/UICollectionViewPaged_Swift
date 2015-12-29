@@ -4,30 +4,41 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>TestUICollectionPaged iPad.xcscheme</key>
+		<key>MBProgressHUD.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>1</integer>
 		</dict>
-		<key>TestUICollectionPaged.xcscheme</key>
+		<key>Pods.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
+		</dict>
+		<key>ReachabilitySwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>9A48CBE41B697F980031791D</key>
+		<key>5677844139A7F5C4F08FCC1CDDC8AA7E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9A48CBF91B697F980031791D</key>
+		<key>E61CE3B6DFA1FE6B3E296965C76C0E10</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9A64DBA91C328238007033B9</key>
+		<key>ECFDB6DDDD54B49AFC1634FE71C9698C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
