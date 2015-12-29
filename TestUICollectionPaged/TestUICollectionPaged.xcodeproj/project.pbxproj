@@ -244,6 +244,9 @@
 						CreatedOnToolsVersion = 6.4;
 						TestTargetID = 9A48CBE41B697F980031791D;
 					};
+					9A64DBA91C328238007033B9 = {
+						DevelopmentTeam = 9E7CS548TK;
+					};
 				};
 			};
 			buildConfigurationList = 9A48CBE01B697F980031791D /* Build configuration list for PBXProject "TestUICollectionPaged" */;
