@@ -35,7 +35,12 @@ class TestUICollectionPagedUITests: XCTestCase {
         
         let cellsQuery = XCUIApplication().collectionViews.cells
         cellsQuery.otherElements.containingType(.StaticText, identifier:"cell 0").element.tap()
-        cellsQuery.otherElements.containingType(.StaticText, identifier:"cell 1").element.tap()
+        
+        let cell1Element = cellsQuery.otherElements.containingType(.StaticText, identifier:"cell 1").element
+        cell1Element.swipeLeft()
+        cellsQuery.otherElements.containingType(.StaticText, identifier:"cell 2").element.swipeLeft()
+        cellsQuery.otherElements.containingType(.StaticText, identifier:"cell 4").element.swipeLeft()
+        cellsQuery.otherElements.containingType(.StaticText, identifier:"cell 5").element.swipeLeft()
         
     }
     
