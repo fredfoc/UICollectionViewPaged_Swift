@@ -1,0 +1,4 @@
+[submodule "TestUICollectionPaged/Translations"]
+	path = TestUICollectionPaged/Translations
+	url = https://github.com/fredfoc/TestTranslations.git
+	branch = master
