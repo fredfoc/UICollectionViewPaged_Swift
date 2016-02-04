@@ -20,6 +20,8 @@
 		9A64DBB31C328238007033B9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A48CBF11B697F980031791D /* Images.xcassets */; };
 		9A64DBBE1C328239007033B9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A64DBBC1C328239007033B9 /* LaunchScreen.xib */; };
 		9A64DBD41C329A14007033B9 /* TestUICollectionPagedUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A64DBD31C329A14007033B9 /* TestUICollectionPagedUITests.swift */; };
+		9AF886911C63504100E43C88 /* fr_FR.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9AF886901C63504100E43C88 /* fr_FR.txt */; };
+		9AF886921C63504100E43C88 /* fr_FR.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9AF886901C63504100E43C88 /* fr_FR.txt */; };
 		DE2669AC6776AEC75F976319 /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB41B1F2DAA298BEE434C4DC /* Pods.framework */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +61,7 @@
 		9A64DBD31C329A14007033B9 /* TestUICollectionPagedUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUICollectionPagedUITests.swift; sourceTree = "<group>"; };
 		9A64DBD51C329A14007033B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A7AD77C7A4E8644CF11CA83 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		9AF886901C63504100E43C88 /* fr_FR.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = fr_FR.txt; path = Translations/fr_FR.txt; sourceTree = "<group>"; };
 		AB41B1F2DAA298BEE434C4DC /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -107,6 +110,7 @@
 		9A48CBDC1B697F980031791D = {
 			isa = PBXGroup;
 			children = (
+				9AF886901C63504100E43C88 /* fr_FR.txt */,
 				9A64DBBA1C328238007033B9 /* Resources-iPad */,
 				9A48CBE71B697F980031791D /* TestUICollectionPaged */,
 				9A48CBFD1B697F980031791D /* TestUICollectionPagedTests */,
@@ -328,6 +332,7 @@
 			files = (
 				9A48CBF01B697F980031791D /* Main.storyboard in Resources */,
 				9A48CBF51B697F980031791D /* LaunchScreen.xib in Resources */,
+				9AF886911C63504100E43C88 /* fr_FR.txt in Resources */,
 				9A48CBF21B697F980031791D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -345,6 +350,7 @@
 			files = (
 				9A64DBB11C328238007033B9 /* Main.storyboard in Resources */,
 				9A64DBBE1C328239007033B9 /* LaunchScreen.xib in Resources */,
+				9AF886921C63504100E43C88 /* fr_FR.txt in Resources */,
 				9A64DBB31C328238007033B9 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -774,6 +780,7 @@
 				9A64DBDA1C329A14007033B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
