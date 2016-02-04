@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CA02B316BFA8CD1F661F0024224C07866796B3FB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BDCB9AE295F837F803A0C7A53A89B58DDDD5E6BC" : 0,
+    "CA02B316BFA8CD1F661F0024224C07866796B3FB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D1E582DA-91EE-4A5D-B1FB-A85D386279C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BDCB9AE295F837F803A0C7A53A89B58DDDD5E6BC" : "Tests\/TestUICollectionPaged\/Translations\/",
+    "CA02B316BFA8CD1F661F0024224C07866796B3FB" : "Tests\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestUICollectionPaged",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestUICollectionPaged\/TestUICollectionPaged.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fredfoc\/TestTranslations.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BDCB9AE295F837F803A0C7A53A89B58DDDD5E6BC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fredfoc\/UICollectionViewPaged_Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA02B316BFA8CD1F661F0024224C07866796B3FB"
+    }
+  ]
+}
